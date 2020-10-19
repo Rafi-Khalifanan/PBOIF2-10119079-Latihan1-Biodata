@@ -7,7 +7,12 @@ package pboif2.pkg10119079.latihan;
 
 /**
  *
- * @author Khaz
+ * @author
+ * NAMA     :   Rafi Khalifanan A
+ * KELAS    :   IF2
+ * NIM      :   10119079
+ * DESKRIPSI:   Berisi codingan dengan contoh Biodata
+ *
  */
 public class PBOIF210119079Latihan1 {
 
